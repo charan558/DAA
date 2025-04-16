@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/RR"
+		},
+		{
+			"path": "../../../../../var/lib/tomcat9/webapps/MyProject/voting"
+		},
+		{
+			"path": "../../../../../var/lib/tomcat9/webapps/elections"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../daa internal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "voting"
+	}
+}
